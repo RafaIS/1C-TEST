@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9571d589-4239-4eb2-87bb-7fecf73bc62b">
+  <name>МояПерваяОбработка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Моя первая обработка</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="5632d82c-6003-481c-8eaa-d77c168b9594"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="db470270-a4d8-4c58-8654-50217257598f"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="2e0422f9-5e95-47c0-b18c-b525afd23634"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="29d84cc0-d607-4155-84ce-331a83002a2e"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="42fde533-3102-4e53-8857-4c7e3d67dd37"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="17b95211-3f7a-44ee-8d3e-076a32d531b1"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="1a21beb7-87ba-4b2b-a342-d8310dacbf5d"/>
+  <configurationExtensionCompatibilityMode>8.3.18</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.18</compatibilityMode>
+  <languages uuid="3da3cd5c-f839-4030-ac12-62f8a36925b7">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Подсистема</subsystems>
+  <dataProcessors>DataProcessor.Обработка</dataProcessors>
+</mdclass:Configuration>
