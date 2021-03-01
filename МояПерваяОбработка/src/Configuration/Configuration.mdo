@@ -40,5 +40,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Подсистема</subsystems>
+  <commonModules>CommonModule.ГрафическаяСхема</commonModules>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
 </mdclass:Configuration>
